@@ -1,0 +1,182 @@
+/* start category */
+.category-section {
+    /* background-image: url(../images/category-section-bg.jpg); */
+    background-image: none !important;
+    background-repeat: no-repeat;
+    background-position: top right;
+    padding-bottom: 30px;
+}
+.catalog-section {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: relative;
+}
+.arrow-bg-right__category {
+    position: absolute;
+    left: -11%;
+    top: 20px;
+    background-image: url(../images/bg-arrow-category.png);
+}
+.front-section__category {
+    /* padding-bottom: 114px; */
+}
+
+.front-h1__category {
+    color: #fff;
+    /* font-size: 60px; */
+    /* line-height: 80px; */
+    /* max-width: 780px; */
+    max-width: 100% !important;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+.front-h1__category .text-bg:nth-child(1) {
+    margin-bottom: 4px;
+}
+.front-subtitle__category {
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 50px;
+    /* max-width: 590px; */
+    max-width: 100% !important;
+}
+.front-subtitle__category p {
+    color: #777777;
+}
+.catalog__item__category {
+    padding-bottom: 16px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 9px;
+    max-width: 493px;
+    max-width: 32.2%;
+    margin-bottom: 40px;
+    min-height: 312px;
+    background-color: #fff;
+    border: 2px solid transparent;
+}
+.catalog__item__category:hover {
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 8px;
+}
+.catalog-item__wide {
+    position: relative;
+    max-width: 1000px;
+}
+.catalog__item__category .catalog__item__header {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-bottom: 6px;
+    gap: 20px;
+}
+.catalog__item__header .catalog__item__title {
+    /* max-width: 192px; */
+    width: 100%;
+}
+
+.catalog-item__wide .catalog__item__header .catalog__item__title {
+    max-width: 320px;
+}
+
+.catalog__item.catalog__item__category.categoru-customozed .catalog__item__title {
+    height: auto;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.catalog__item__category .catalog__item__category__img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 160px;
+    height: 160px;
+    width: 100%;
+    min-width: 100%;
+    margin-right: 15px;
+    overflow: hidden;
+}
+.catalog__item__subcategories {
+    display: flex;
+    justify-content: space-between;
+}
+.catalog__item__category.catalog__item__category__special {
+    max-width: 625px;
+}
+
+.catalog__item__category.catalog__item__category__special img {
+    width: 70px;
+}
+.subcategories-list {
+    padding-top: 10px;
+    padding-left: 25px;
+    border-top: 1px solid #E0E0E0 ;
+    max-width: 409px;
+    width: 100%;
+    list-style: disc;
+}
+.subcategories-item {
+    max-width: 190px;
+    position: relative;
+    margin-bottom: 10px;
+    word-wrap: break-word;
+}
+.subcategories-item-fix{
+    max-width: 180px;
+}
+.subcategories-link, a.subcategories-link-dropbox {
+    display: inline;
+    font-size: 13px;
+    line-height: 21px;
+    margin-bottom: 10px;
+}
+.subcategories-item:last-child .subcategories-link {
+    margin-bottom: 0;
+}
+.category-section_desc {
+    padding-top: 110px;
+    border-top: 1px solid #E0E0E0;
+    margin-top: 20px;
+}
+.category-section_desc h2 {
+    margin-bottom: 30px;
+}
+.category-section_desc p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.arrow-bg-right__category__smaller {
+    display: none;
+}
+.term-description p {
+    font-size: 16px;
+}
+.chevr-catalog{
+    /*display: inline;*/
+    padding: 3px;
+    padding: 3px;
+    display: block;
+    position: absolute;
+    right: -10px;
+    top: 1px;
+ 
+}
+.subcategories-item-drop svg {
+    transform: translateY(3px);
+}
+.subcategories-list-dropbox{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.catalog_download_files li a {
+    font-size: 12px;
+    color: #E84B0F;
+    text-decoration: underline;
+}
+/* end category */

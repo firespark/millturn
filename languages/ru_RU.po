@@ -1,0 +1,379 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blank WordPress Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2024-05-25 17:33+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:24
+msgid "The page you are looking for was not found..."
+msgstr "Запрашиваемая Вами страница не найдена..."
+
+#: catalog.php:131 category.php:179 inc/header_form.php:6
+#: inc/header_mobile_form.php:6 single.php:62
+msgid "Leave apply"
+msgstr "Оставить заявку"
+
+#: category.php:106
+msgid "Go to catalog"
+msgstr "Перейти в Каталог"
+
+#: category.php:120
+msgid "Production"
+msgstr "Продукция"
+
+#: contacts.php:58
+msgid "We are in social networks"
+msgstr "Мы в соцсетях"
+
+#: functions/common_functions.php:16 functions/common_functions.php:17
+msgid "Main settings"
+msgstr "Основные настройки"
+
+#: functions/common_functions.php:18
+msgid "Save"
+msgstr "Сохранить"
+
+#: functions/common_functions.php:125
+msgid "Home"
+msgstr "Главная"
+
+#: functions/common_functions.php:127 search.php:32
+msgid "Search results with query"
+msgstr "Результаты поиска по запросу"
+
+#: functions/common_functions.php:128
+msgid "Posts with tag"
+msgstr "Записи с тегом"
+
+#: functions/common_functions.php:129
+msgid "Authors posts"
+msgstr "Записи автора"
+
+#: functions/common_functions.php:130
+msgid "Error"
+msgstr "Ошибка"
+
+#: functions/common_functions.php:131
+msgid "Page"
+msgstr "Страница"
+
+#: functions/common_functions.php:132
+msgid "Comments page"
+msgstr "Страница комментариев"
+
+#: functions/common_functions.php:423
+msgid "Pages"
+msgstr "Страницы"
+
+#: functions/common_functions.php:424
+msgid "First page"
+msgstr "Первая страница"
+
+#: functions/common_functions.php:436
+msgid "Last page"
+msgstr "Последняя страница"
+
+#: functions/posts_functions.php:5 functions/posts_functions.php:16
+#: functions/posts_functions.php:17
+msgid "Products"
+msgstr "Товары"
+
+#: functions/posts_functions.php:6 functions/posts_functions.php:18
+msgid "Product"
+msgstr "Товар"
+
+#: functions/posts_functions.php:7 functions/posts_functions.php:30
+#: functions/posts_functions.php:51 functions/posts_functions.php:82
+msgid "Add"
+msgstr "Добавить"
+
+#: functions/posts_functions.php:8
+msgid "Add Product"
+msgstr "Добавить Товар"
+
+#: functions/posts_functions.php:9
+msgid "Edit Product"
+msgstr "Редактировать Товар"
+
+#: functions/posts_functions.php:10
+msgid "New Product"
+msgstr "Новый Товар"
+
+#: functions/posts_functions.php:11
+msgid "View Product"
+msgstr "Просмотр Товара"
+
+#: functions/posts_functions.php:12
+msgid "Search Products"
+msgstr "Поиск Товаров"
+
+#: functions/posts_functions.php:13
+msgid "Products not found"
+msgstr "Товары не найдены"
+
+#: functions/posts_functions.php:14
+msgid "Products not found in trash"
+msgstr "Товары не найдены в корзине"
+
+#: functions/posts_functions.php:15
+msgid "All Products"
+msgstr "Все Товары"
+
+#: functions/posts_functions.php:28 functions/posts_functions.php:38
+#: functions/posts_functions.php:39
+msgid "Categories"
+msgstr "Категории"
+
+#: functions/posts_functions.php:29 functions/posts_functions.php:40
+msgid "Category"
+msgstr "Категория"
+
+#: functions/posts_functions.php:31
+msgid "Add Category"
+msgstr "Добавить Категорию"
+
+#: functions/posts_functions.php:32
+msgid "Edit Category"
+msgstr "Редактировать Категорию"
+
+#: functions/posts_functions.php:33
+msgid "New Category"
+msgstr "Новая Категория"
+
+#: functions/posts_functions.php:34
+msgid "View Category"
+msgstr "Просмотр Категории"
+
+#: functions/posts_functions.php:35
+msgid "Categories Search"
+msgstr "Поиск Категорий"
+
+#: functions/posts_functions.php:36
+msgid "Categories not found"
+msgstr "Категории не найдены"
+
+#: functions/posts_functions.php:37
+msgid "Categories not found in trash"
+msgstr "Категории не найдены в корзине"
+
+#: functions/posts_functions.php:49 functions/posts_functions.php:60
+msgid "Events"
+msgstr "Мероприятия"
+
+#: functions/posts_functions.php:50
+msgid "Event"
+msgstr "Мероприятие"
+
+#: functions/posts_functions.php:52
+msgid "Add Event"
+msgstr "Добавить Мероприятие"
+
+#: functions/posts_functions.php:53
+msgid "Edit Event"
+msgstr "Редактировать Мероприятие"
+
+#: functions/posts_functions.php:54
+msgid "New Event"
+msgstr "Новое Мероприятие"
+
+#: functions/posts_functions.php:55
+msgid "All Events"
+msgstr "Все Мероприятия"
+
+#: functions/posts_functions.php:56
+msgid "View Event"
+msgstr "Просмотр Мероприятия"
+
+#: functions/posts_functions.php:57
+msgid "Search Events"
+msgstr "Поиск Мероприятий"
+
+#: functions/posts_functions.php:58
+msgid "Events not found"
+msgstr "Мероприятия не найдены"
+
+#: functions/posts_functions.php:59
+msgid "Events not found in trash"
+msgstr "Мероприятия не найдены в корзине"
+
+#: functions/posts_functions.php:80 functions/posts_functions.php:91
+msgid "Modules"
+msgstr "Модули"
+
+#: functions/posts_functions.php:81
+msgid "Module"
+msgstr "Модуль"
+
+#: functions/posts_functions.php:83
+msgid "Add Module"
+msgstr "Добавить Модуль"
+
+#: functions/posts_functions.php:84
+msgid "Edit Module"
+msgstr "Редактировать Модуль"
+
+#: functions/posts_functions.php:85
+msgid "New Module"
+msgstr "Новый Модуль"
+
+#: functions/posts_functions.php:86
+msgid "All Modules"
+msgstr "Все Модули"
+
+#: functions/posts_functions.php:87
+msgid "View Module"
+msgstr "Просмотр Модуля"
+
+#: functions/posts_functions.php:88
+msgid "Search Modules"
+msgstr "Поиск Модулей"
+
+#: functions/posts_functions.php:89
+msgid "Modules not found"
+msgstr "Модули не найдены"
+
+#: functions/posts_functions.php:90
+msgid "Modules not found in trash"
+msgstr "Модули не найдены в корзине"
+
+#: inc/cat_download.php:8 inc/cat_download.php:28 inc/product_download.php:7
+#: inc/product_download.php:27
+msgid "Download catalog"
+msgstr "Скачать Каталог"
+
+#: inc/footer_bottom.php:3
+msgid "Privacy policy"
+msgstr "Политика конфиденциальности"
+
+#: inc/footer_contacts.php:26 inc/modal_callback.php:42
+msgid "Order ring"
+msgstr "Заказать звонок"
+
+#: inc/header_menu_categories.php:35 inc/header_mobile_hamburger.php:2
+msgid "Close"
+msgstr "Закрыть"
+
+#: inc/header_search.php:5 inc/header_search.php:6
+#: inc/header_search_mobile.php:8 inc/header_search_mobile.php:9
+msgid "search"
+msgstr "поиск"
+
+#: inc/header_search.php:9 inc/header_search_mobile.php:12
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/header_search.php:18
+msgid "See all"
+msgstr "Посмотреть все"
+
+#: inc/modal_apply.php:29 inc/modal_callback.php:29 modules/contacts.php:25
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: inc/modal_apply.php:37 inc/modal_callback.php:37 modules/contacts.php:29
+msgid "Your phone"
+msgstr "Ваш телефон"
+
+#: inc/modal_apply.php:43
+msgid "Order"
+msgstr "Заказать"
+
+#: inc/product_tabs.php:6
+msgid "Specifications"
+msgstr "Технические характеристики"
+
+#: inc/product_tabs.php:11
+msgid "Equipment"
+msgstr "Комплектация"
+
+#: inc/product_tabs.php:16
+msgid "Description"
+msgstr "Описание"
+
+#: modules/contacts.php:33
+msgid "Your email"
+msgstr "Ваш Email"
+
+#: modules/contacts.php:38
+msgid "Your message"
+msgstr "Ваше сообщение"
+
+#: modules/contacts.php:40
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+#: modules/populars.php:33 modules/subcategories.php:24
+#: modules/subcategories.php:38
+msgid "Go to Catalog"
+msgstr "Перейти в Каталог"
+
+#: scripts/orderApply.php:20 scripts/orderMessage.php:23
+#: scripts/orderRing.php:19
+msgid "Please, fill in all required fields"
+msgstr "Пожалуйста, заполните все обязательные поля"
+
+#: scripts/orderApply.php:29 scripts/orderMessage.php:32
+msgid "Apply from the website"
+msgstr "Заявка с сайта"
+
+#: scripts/orderApply.php:31 scripts/orderMessage.php:34
+#: scripts/orderRing.php:30
+msgid "Name"
+msgstr "Имя"
+
+#: scripts/orderApply.php:31 scripts/orderMessage.php:35
+#: scripts/orderRing.php:30
+msgid "Phone"
+msgstr "Телефон"
+
+#: scripts/orderApply.php:37 scripts/orderMessage.php:43
+#: scripts/orderRing.php:36
+msgid "Thank you! Your message is delivered. We will contact you soon"
+msgstr ""
+"Спасибо! Ваше сообщение доставлено. Мы свяжемся с Вами в ближайшее время"
+
+#: scripts/orderApply.php:40 scripts/orderMessage.php:46
+#: scripts/orderRing.php:39
+msgid ""
+"Errors occurred during script execution. Please inform the site "
+"administrator about this issue"
+msgstr ""
+"Во время выполнения скрипта возникли ошибки. Пожалуйста, сообщите "
+"администратору сайта об этой проблеме"
+
+#: scripts/orderMessage.php:36
+msgid "Email"
+msgstr "Email"
+
+#: scripts/orderMessage.php:37
+msgid "Message"
+msgstr "Сообщение"
+
+#: scripts/orderRing.php:28
+msgid "Ring ordered on the website"
+msgstr "Заказ звонка на сайте"
+
+#: search.php:67
+msgid "Nothing found with this query"
+msgstr "По вашему запросу ничего не найдено"

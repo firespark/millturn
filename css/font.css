@@ -1,0 +1,86 @@
+/* start font */
+@font-face{
+    font-display:swap;
+    font-family:'Stem';
+    src:url(../fonts/Stem/Stem-Black.ttf);
+    font-weight:900;
+    font-style:normal
+}
+@font-face{
+    font-display:swap;
+    font-family:'Stem';
+    src:url(../fonts/Stem/Stem-BlackItalic.ttf);
+    font-weight:900;
+    font-style:italic
+}
+@font-face{
+    font-display:swap;
+    font-family:'Stem';
+    src:url(../fonts/Stem/Stem-Bold.ttf);
+    font-weight:700;
+    font-style:normal
+}
+@font-face{
+    font-display:swap;
+    font-family:'Stem';
+    src:url(../fonts/Stem/Stem-BoldItalic.ttf);
+    font-weight:700;
+    font-style:italic
+}
+@font-face{
+    font-display:swap;
+    font-family:'Stem';
+    src:url(../fonts/Stem/Stem-Italic.ttf);
+    font-weight:400;
+    font-style:italic
+}
+@font-face{
+    font-display:swap;
+    font-family:'Stem';
+    src:url(../fonts/Stem/Stem-Light.ttf);
+    font-weight:300;
+    font-style:normal
+}
+@font-face{
+    font-display:swap;
+    font-family:'Stem';
+    src:url(fonts/Stem/Stem-LightItalic.ttf);
+    font-weight:300;
+    font-style:italic
+}
+@font-face{
+    font-display:swap;
+    font-family:'Stem';
+    src:url(../fonts/Stem/Stem-Medium.ttf);
+    font-weight:500;
+    font-style:normal
+}
+@font-face{
+    font-display:swap;
+    font-family:'Stem';
+    src:url(../fonts/Stem/Stem-MediumItalic.ttf);
+    font-weight:500;
+    font-style:italic
+}
+@font-face{
+    font-display:swap;
+    font-family:'Stem';
+    src:url(../fonts/Stem/Stem-Regular.ttf);
+    font-weight:400;
+    font-style:normal
+}
+@font-face{
+    font-display:swap;
+    font-family:'Stem';
+    src:url(../fonts/Stem/Stem-Thin.ttf);
+    font-weight:100;
+    font-style:normal
+}
+@font-face{
+    font-display:swap;
+    font-family:'Stem';
+    src:url(../fonts/Stem/Stem-ThinItalic.ttf);
+    font-weight:100;
+    font-style:italic
+}
+/* end font */

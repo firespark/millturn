@@ -1,0 +1,40 @@
+/* Including core css file */
+@import url("./core.css");
+/* Including fonts */
+@import url("./font.css");
+
+/* Including header css file */
+@import url("./header.css");
+
+/* Including footer ccs file */
+@import url("./footer.css");
+
+/* Including sliders ccs file */
+@import url("./sliders.css");
+
+/* Including category ccs file */
+@import url("./category.css");
+
+/* Including other ccs file */
+@import url("./other.css");
+
+/* Including product ccs file */
+@import url("./product.css");
+
+/* Including front-page css file */
+@import url("./front-page.css");
+
+
+/* Including css file for  media 1520px , 1200px , 768px*/
+@import url("./1520.css");
+@import url("./1230.css");
+@import url("./768.css");
+
+/* @media (max-width: 1628px) {
+    .menu-bg {
+        overflow-x: scroll;
+    }
+    .menu-bg.active > .close-menu {
+        bottom: 0;
+    }
+} */
